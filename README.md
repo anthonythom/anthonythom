@@ -1,4 +1,4 @@
-## Hello, world! 🖖 eu sou o Anthony!
+## Hello, world! Eu sou o Anthony!
 <div style="display: inline_block">
   <a href="https://github.com/anthonythom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
