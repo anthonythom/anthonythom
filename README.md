@@ -1,4 +1,4 @@
-##  <h1>  Hello, world! Eu sou o Anthony! </h1>
+##  <h1 text-align="center">  Hello, world! Eu sou o Anthony! </h1>
 <div align="center">
   <a href="https://github.com/anthonythom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
