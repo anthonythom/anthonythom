@@ -49,7 +49,7 @@ class Skills extends Developer {
 ### Sobre mim... 
 
 
-### My Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
+### Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
 <p align="center">
    <a href="https://github.com/anthonythom">
@@ -69,12 +69,12 @@ class Skills extends Developer {
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projects / Sprints in progress 
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos em andamento
   
 
 <p align="center">
   <a href="https://github.com/anthonythom/AnthonyThomas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=radical"></img>
   </a>
  
 </p>
