@@ -69,14 +69,16 @@ class Skills extends Developer {
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos em andamento
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos em andamento...
   
 
 <p align="center">
   <a href="https://github.com/anthonythom/AnthonyThomas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=radical"></img>
   </a>
- 
+ <a href="https://github.com/anthonythom/Isaac">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=radical"></img>
+  </a>
 </p>
   
   
