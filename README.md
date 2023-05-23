@@ -47,7 +47,21 @@ class Skills extends Developer {
 
 
 ### Sobre mim... 
+Olá! Meu nome é Anthony Thomas, tenho 21 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades nessa área em constante evolução.
 
+Tive a oportunidade de me formar em Desenvolvimento Web pela Resilia Educação, o que me proporcionou uma base sólida e conhecimentos práticos nessa área específica. Durante esse percurso, descobri minha verdadeira paixão por explorar soluções tecnológicas e criar experiências digitais inovadoras.
+
+Minhas áreas de estudo e interesse estão focadas em React, uma biblioteca JavaScript amplamente utilizada para o desenvolvimento de interfaces de usuário interativas. Além disso, estou me dedicando a aprofundar meus conhecimentos em Three.js, uma biblioteca JavaScript utilizada para a criação de animações e gráficos em 3D. Acredito que a combinação dessas tecnologias pode levar a resultados incríveis e experiências imersivas.
+
+Para acompanhar o ritmo acelerado da indústria de tecnologia, também estou dedicando tempo ao estudo de metodologias ágeis, como Scrum e Kanban. Acredito que essas abordagens proporcionam maior flexibilidade, colaboração e eficiência na entrega de projetos.
+
+Estou sempre aberto a colaborações, diálogos e feedbacks construtivos. Acredito que o compartilhamento de conhecimento e a troca de ideias são fundamentais para o crescimento profissional e pessoal. Valorizo a oportunidade de trabalhar em equipe, aprender com outros profissionais e contribuir com soluções inovadoras.
+
+A tecnologia é uma área em constante mudança, e estou animado para enfrentar os desafios que surgem diariamente. Meu objetivo é continuar aprendendo, aprimorando minhas habilidades e buscando projetos que me permitam aplicar meu conhecimento de forma significativa.
+
+Se você estiver interessado em colaborar, trocar ideias ou fornecer feedbacks, fique à vontade para entrar em contato. Estou sempre pronto para novas oportunidades e desafios emocionantes.
+
+Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva na área da tecnologia e como poderei contribuir para essa jornada empolgante.
 
 ### Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
