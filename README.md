@@ -77,7 +77,7 @@ class Skills extends Developer {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=radical"></img>
   </a>
  <a href="https://github.com/anthonythom/Isaac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=radical"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=isaac-project&theme=radical"></img>
   </a>
 </p>
   
