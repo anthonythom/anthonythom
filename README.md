@@ -1,10 +1,5 @@
 ##  <h1 text-align="center">  Falaaa DEV! Eu sou o Tony! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1> </h1>
-<div align="center">
-  <a href="https://github.com/anthonythom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
+
   
   ### 
 
