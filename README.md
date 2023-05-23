@@ -57,8 +57,6 @@ Para acompanhar o ritmo acelerado da indústria de tecnologia, também estou ded
 
 Estou sempre aberto a colaborações, diálogos e feedbacks construtivos. Acredito que o compartilhamento de conhecimento e a troca de ideias são fundamentais para o crescimento profissional e pessoal. Valorizo a oportunidade de trabalhar em equipe, aprender com outros profissionais e contribuir com soluções inovadoras.
 
-A tecnologia é uma área em constante mudança, e estou animado para enfrentar os desafios que surgem diariamente. Meu objetivo é continuar aprendendo, aprimorando minhas habilidades e buscando projetos que me permitam aplicar meu conhecimento de forma significativa.
-
 Se você estiver interessado em colaborar, trocar ideias ou fornecer feedbacks, fique à vontade para entrar em contato. Estou sempre pronto para novas oportunidades e desafios emocionantes.
 
 Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva na área da tecnologia e como poderei contribuir para essa jornada empolgante.
