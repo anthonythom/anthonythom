@@ -1,4 +1,4 @@
-##  <h1 text-align="center">  Falaaa, devs!  Toni aqui <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45px"></h1>
+##  <h1 text-align="center">  Falaaa, devs!  Toni aqui <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35px"></h1>
 
   
   ### 
