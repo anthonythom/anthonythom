@@ -72,14 +72,7 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
 ### Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
 <p align="center">
-   <a href="https://github.com/anthonythom">
-    <img
-      align="center"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom"
-    />
-
-  </a>
+   
    <a href="https://github.com/anthonythom">
     <img
       align="center"
@@ -87,6 +80,16 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
       src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=radical)"
     />
   </a>
+  
+  <a href="https://github.com/anthonythom">
+    <img
+      align="center"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom"
+    />
+
+  </a>
+  
 </p>
 
 ### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos em andamento...
