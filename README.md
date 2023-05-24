@@ -94,10 +94,11 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
 
 <p align="center">
   <a href="https://github.com/anthonythom/AnthonyThomas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=radical"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas"></img>
   </a>
  <a href="https://github.com/anthonythom/Isaac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=radical"></img>
+    <img src=" https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=radical"></img>
+   
   </a>
 </p>
   
