@@ -77,7 +77,7 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=midnight-purple)"
+      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=panda"
     />
   </a>
   
@@ -85,7 +85,7 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=midnight-purple"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=panda"
     />
 
   </a>
@@ -99,14 +99,14 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
   <a href="https://github.com/anthonythom/AnthonyThomas">
     <img 
       align="center"
-      height="100em"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=midnight-purple"></img>
+      height="150em"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=panda"></img>
   </a>
  <a href="https://github.com/anthonythom/Isaac">
     <img 
       align="center"
-      height="100em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=midnight-purple"></img>
+      height="150em" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=panda"></img>
    
   </a>
 </p>
