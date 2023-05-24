@@ -76,7 +76,7 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
     <img
       align="center"
       height="180em"
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"
+     https://github-readme-stats.vercel.app/api?username=anthonythom"
     />
 
   </a>
