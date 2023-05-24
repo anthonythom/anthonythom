@@ -85,7 +85,7 @@ Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva n
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8"
     />
 
   </a>
