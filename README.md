@@ -69,7 +69,7 @@ Se você estiver interessado em colaborar, trocar ideias ou fornecer feedbacks, 
 
 Obrigado por ler um pouco sobre mim! Estou ansioso para o que o futuro reserva na área da tecnologia e como poderei contribuir para essa jornada empolgante.
 
-### Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
+### Stats <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
 <p align="center">
    
