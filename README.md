@@ -54,7 +54,7 @@ class Skills extends Developer {
 
 
 ### Sobre mim... 
-Olá! Meu nome é Anthony Thomas, tenho 21 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades nessa área em constante evolução.
+Olá! Meu nome é Anthony Thomas, tenho 22 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades nessa área em constante evolução.
 
 Tive a oportunidade de me formar em Desenvolvimento Web pela Resilia Educação, o que me proporcionou uma base sólida e conhecimentos práticos nessa área específica. Durante esse percurso, descobri minha verdadeira paixão por explorar soluções tecnológicas e criar experiências digitais inovadoras.
 
