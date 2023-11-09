@@ -10,8 +10,8 @@ import Developer from 'Anthony Thomas';
 class AboutMe extends Developer {
   name = 'Anthony Thomas';
   nickname = 'Tony'
-  age = 21
-  area = 'Studying mobile (android) and web development (front-end)';
+  age = 22
+  area = 'Studying mobile (android and ios) and web development (full-stack)';
   local = 'SP / SP - Brazil';
 }
 
