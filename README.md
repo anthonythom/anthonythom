@@ -109,10 +109,10 @@ class Skills extends Developer {
   
   ##
  
-<div> 
-  ![snake animation](https://github.com/anthonythom/anthonythom/blob/output/github-contribution-grid-snake2.svg)
+
+  
   ![snake animation](https://github.com/anthonythom/anthonythom/blob/output/github-contribution-grid-snake2.svg)
  
  
-</div>
+
 
