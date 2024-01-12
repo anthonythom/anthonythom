@@ -72,6 +72,7 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
+      width="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=shades-of-purple"
     />
 
