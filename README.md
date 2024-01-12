@@ -97,38 +97,10 @@ class Skills extends Developer {
 
 ### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos em andamento...
   
-
-<p align="center">
-  <a href="https://github.com/anthonythom/PlataformaAfroGlow">
-    <img 
-      align="center"
-      height="150em"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
-  </a>
- <a href="https://github.com/anthonythom/PlataformaAfroGlow">
-    <img 
-      align="center"
-      height="150em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
-   
-  </a>
-</p>
-  
-  
-  
-  
   
   
   
   
 
-  
-  ##
- 
-
-  
-  ![snake animation](https://github.com/anthonythom/anthonythom/blob/output/github-contribution-grid-snake2.svg)
- 
- 
 
 
