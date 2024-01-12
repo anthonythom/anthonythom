@@ -64,7 +64,7 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=shades-of-purple)"
+      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=shades-of-purple"
     />
   </a>
   
