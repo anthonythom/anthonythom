@@ -105,11 +105,11 @@ class Skills extends Developer {
       height="150em"
          src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
   </a>
- <a href="https://github.com/anthonythom/Isaac">
+ <a href="https://github.com/anthonythom/PlataformaAfroGlow">
     <img 
       align="center"
       height="150em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=shades-of-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
    
   </a>
 </p>
