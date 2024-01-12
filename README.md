@@ -72,7 +72,6 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
-      width="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=shades-of-purple"
     />
 
@@ -84,17 +83,17 @@ class Skills extends Developer {
   
 
 <p align="center">
-  <a href="https://github.com/anthonythom/AnthonyThomas">
+  <a href="https://github.com/AfroGlow/PlataformaAfroGlow">
     <img 
       align="center"
       height="150em"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=shades-of-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
   </a>
- <a href="https://github.com/anthonythom/Isaac">
+ <a href="https://github.com/AfroGlow/BackendAfroGlow">
     <img 
       align="center"
       height="150em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=shades-of-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=BackendAfroGlow&theme=shades-of-purple"></img>
    
   </a>
 </p>
@@ -107,12 +106,7 @@ class Skills extends Developer {
   
   
 
-  
-  ##
- 
 
-  
-  ![snake animation](https://github.com/anthonythom/anthonythom/blob/output/github-contribution-grid-snake2.svg)
  
  
 
