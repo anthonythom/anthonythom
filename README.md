@@ -64,7 +64,7 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=midnight-purple)"
+      src="https://github-readme-stats.vercel.app/api?username=anthonythom&show_icons=true&theme=shades-of-purple)"
     />
   </a>
   
@@ -72,7 +72,7 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=midnight-purple"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=shades-of-purple"
     />
 
   </a>
@@ -87,13 +87,13 @@ class Skills extends Developer {
     <img 
       align="center"
       height="150em"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=midnight-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=AnthonyThomas&theme=shades-of-purple"></img>
   </a>
  <a href="https://github.com/anthonythom/Isaac">
     <img 
       align="center"
       height="150em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=midnight-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=shades-of-purple"></img>
    
   </a>
 </p>
