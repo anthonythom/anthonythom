@@ -56,6 +56,21 @@ class Skills extends Developer {
 ### Sobre mim... 
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ### Stats <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
 <p align="center">
@@ -72,6 +87,7 @@ class Skills extends Developer {
     <img
       align="center"
       height="180em"
+      width="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythom&langs_count=8&theme=shades-of-purple"
     />
 
@@ -83,17 +99,17 @@ class Skills extends Developer {
   
 
 <p align="center">
-  <a href="https://github.com/AfroGlow/PlataformaAfroGlow">
+  <a href="https://github.com/anthonythom/PlataformaAfroGlow">
     <img 
       align="center"
       height="150em"
          src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=PlataformaAfroGlow&theme=shades-of-purple"></img>
   </a>
- <a href="https://github.com/AfroGlow/BackendAfroGlow">
+ <a href="https://github.com/anthonythom/Isaac">
     <img 
       align="center"
       height="150em" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=BackendAfroGlow&theme=shades-of-purple"></img>
+         src="https://github-readme-stats.vercel.app/api/pin/?username=anthonythom&repo=Isaac&theme=shades-of-purple"></img>
    
   </a>
 </p>
@@ -106,7 +122,12 @@ class Skills extends Developer {
   
   
 
+  
+  ##
+ 
 
+  
+  ![snake animation](https://github.com/anthonythom/anthonythom/blob/output/github-contribution-grid-snake2.svg)
  
  
 
